@@ -1,3 +1,4 @@
 .DS-Store
 data.zip
 data/*
+.venv/
