@@ -2,3 +2,9 @@
 data.zip
 data/*
 .venv/
+DATASET_CATALOG.md
+eda.ipynb
+eda.slides.html
+get_data.py
+wrangling.ipynb
+wrangling.slides.html
